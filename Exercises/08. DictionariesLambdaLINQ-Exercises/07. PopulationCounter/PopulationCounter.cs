@@ -9,7 +9,7 @@ namespace _07.PopulationCounter
     {
         static void Main(string[] args)
         {
-			var countries = new Dictionary<string, Dictionary<string, long>>();
+	    var countries = new Dictionary<string, Dictionary<string, long>>();
             string input = Console.ReadLine();
             while (input != "report")
             {
