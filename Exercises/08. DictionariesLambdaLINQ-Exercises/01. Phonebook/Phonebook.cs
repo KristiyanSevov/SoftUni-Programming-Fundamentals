@@ -9,7 +9,7 @@ namespace _01.Phonebook
     {
         static void Main(string[] args)
         {
-			string[] command = Console.ReadLine().Split(' ');
+	    string[] command = Console.ReadLine().Split(' ');
             Dictionary<string, string> phonebook = new Dictionary<string, string>();
 
             while (command[0] != "END")
