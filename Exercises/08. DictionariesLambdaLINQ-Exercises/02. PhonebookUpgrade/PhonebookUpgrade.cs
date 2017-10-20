@@ -9,7 +9,7 @@ namespace _02.PhonebookUpgrade
     {
         static void Main(string[] args)
         {
-			string[] command = Console.ReadLine().Split(' ');
+	    string[] command = Console.ReadLine().Split(' ');
             SortedDictionary<string, string> phonebook = new SortedDictionary<string, string>();
 
             while (command[0] != "END")
