@@ -9,7 +9,7 @@ namespace _08.LogsAggregator
     {
         static void Main(string[] args)
         {
-			var names = new SortedDictionary<string, SortedDictionary<string, int>>();
+            var names = new SortedDictionary<string, SortedDictionary<string, int>>();
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
