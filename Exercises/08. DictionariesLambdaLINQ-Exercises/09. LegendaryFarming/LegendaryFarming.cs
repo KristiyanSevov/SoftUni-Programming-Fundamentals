@@ -9,7 +9,7 @@ namespace _09.LegendaryFarming
     {
         static void Main(string[] args)
         {
-			var premiums = new Dictionary<string, int>
+	    var premiums = new Dictionary<string, int>
             {
                 {"motes", 0},
                 {"fragments", 0},
