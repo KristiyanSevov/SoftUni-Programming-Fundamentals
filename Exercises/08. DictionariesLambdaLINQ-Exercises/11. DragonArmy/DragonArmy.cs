@@ -9,7 +9,7 @@ namespace _11.DragonArmy
     {
         static void Main(string[] args)
         {
-			int n = int.Parse(Console.ReadLine());
+	    int n = int.Parse(Console.ReadLine());
             var types = new Dictionary<string, SortedDictionary<string, Dictionary<string, int>>>();
 
             for (int i = 0; i < n; i++)
