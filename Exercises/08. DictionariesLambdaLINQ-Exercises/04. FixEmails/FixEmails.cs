@@ -9,7 +9,7 @@ namespace _04.FixEmails
     {
         static void Main(string[] args)
         {
-			Dictionary<string, string> emails = new Dictionary<string, string>();
+	    Dictionary<string, string> emails = new Dictionary<string, string>();
             int count = 1;
             string name = string.Empty;
             string email = string.Empty;
