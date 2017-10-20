@@ -9,7 +9,7 @@ namespace _05.HandsOfCards
     {
         static void Main(string[] args)
         {
-			string[] input = Console.ReadLine().Split(':');
+	    string[] input = Console.ReadLine().Split(':');
             
             Dictionary<char, int> values = new Dictionary<char, int>
             {
