@@ -9,7 +9,7 @@ namespace _03.MinerTask
     {
         static void Main(string[] args)
         {
-			string command = Console.ReadLine();
+	    string command = Console.ReadLine();
             Dictionary<string, int> dict = new Dictionary<string, int>();
             int count = 1;
             string resource = String.Empty;
