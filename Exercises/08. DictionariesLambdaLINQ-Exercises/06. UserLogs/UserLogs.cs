@@ -9,7 +9,7 @@ namespace _06.UserLogs
     {
         static void Main(string[] args)
         {
-			var users = new SortedDictionary<string, Dictionary<string, int>>();
+	    var users = new SortedDictionary<string, Dictionary<string, int>>();
             string input = Console.ReadLine();
             while (input != "end")
             {
