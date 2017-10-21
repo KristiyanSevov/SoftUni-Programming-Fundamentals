@@ -15,9 +15,9 @@ namespace _05.ShortWordsSorted
                 StringSplitOptions.RemoveEmptyEntries).ToArray();
 
             Console.WriteLine(String.Join(", ", nums.Where(x => x.Length < 5)
-													.Select(x => x.ToLower())
-													.Distinct()
-													.OrderBy(x => x)));
+						    .Select(x => x.ToLower())
+						    .Distinct()
+						    .OrderBy(x => x)));
         }
     }
 }
