@@ -44,7 +44,7 @@ namespace Hornet_Armada
 
             string input = Console.ReadLine();
             int index = input.IndexOf("\\") - 1;
-            if (input.Contains('\\') && index >= 0 && char.IsDigit(input[index])) //for names with '\' inside - no judge test for that though
+            if (input.Contains('\\') && index >= 0 && char.IsDigit(input[index])) //for names with '\' inside - no judge test for that
             {
 
                 int activity = int.Parse(input.Substring(0, index + 1));
