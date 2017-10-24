@@ -26,8 +26,9 @@ namespace _05.BookLibrary
                 };
                 lib.Books.Add(book);
             }
-            foreach (var author in lib.Books.Select(x => x.Author).Distinct().OrderByDescending(x => lib.Books.Where(y => y.Author == x).Select(z => z.Price).Sum())
-                                                                             .ThenBy(x => x))                                                              
+            foreach (var author in lib.Books.Select(x => x.Author).Distinct()
+                                  .OrderByDescending(x => lib.Books.Where(y => y.Author == x).Select(z => z.Price).Sum())
+                                  .ThenBy(x => x))                                                              
             {
                 Console.WriteLine("{0} -> {1:f2}", author, lib.Books.Where(x => x.Author == author).Select(x => x.Price).Sum());
             }
