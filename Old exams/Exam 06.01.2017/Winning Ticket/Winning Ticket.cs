@@ -47,7 +47,7 @@ namespace Winning_Ticket
                 char matchSymbol = char.MinValue;
                 bool match = false;
                 bool jackpot = false;
-                for (int i = ticket.Length-1; i >= ticket.Length/2; i--)
+                for (int i = ticket.Length-1; i > ticket.Length/2; i--)
                 {
                     if (winningSymbols.Contains(ticket[i]) && ticket[i] == ticket[i - 1])
                     {
