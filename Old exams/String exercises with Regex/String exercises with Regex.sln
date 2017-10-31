@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regexmon", "Regexmon\Regexmon.csproj", "{C912983A-8FF9-4B99-BF7F-4BFDFD0EA14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Comm", "Hornet Comm\Hornet Comm.csproj", "{BA3E2692-424F-48EA-9C01-A5F1D44DCB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning Ticket", "Winning Ticket\Winning Ticket.csproj", "{391698B0-F363-449F-8C4A-B414E3348A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nether Realms", "Nether Realms\Nether Realms.csproj", "{24815B31-182D-408D-B548-953672D55E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubic's Messages", "Cubic's Messages\Cubic's Messages.csproj", "{D453012D-64A4-4C87-8A58-7ACDFE9A5102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rage Quit", "Rage Quit\Rage Quit.csproj", "{2B245736-7A5D-400E-8F27-1DBC9CCC91F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C912983A-8FF9-4B99-BF7F-4BFDFD0EA14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C912983A-8FF9-4B99-BF7F-4BFDFD0EA14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C912983A-8FF9-4B99-BF7F-4BFDFD0EA14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C912983A-8FF9-4B99-BF7F-4BFDFD0EA14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3E2692-424F-48EA-9C01-A5F1D44DCB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3E2692-424F-48EA-9C01-A5F1D44DCB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3E2692-424F-48EA-9C01-A5F1D44DCB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3E2692-424F-48EA-9C01-A5F1D44DCB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391698B0-F363-449F-8C4A-B414E3348A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391698B0-F363-449F-8C4A-B414E3348A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391698B0-F363-449F-8C4A-B414E3348A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391698B0-F363-449F-8C4A-B414E3348A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24815B31-182D-408D-B548-953672D55E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24815B31-182D-408D-B548-953672D55E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24815B31-182D-408D-B548-953672D55E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24815B31-182D-408D-B548-953672D55E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D453012D-64A4-4C87-8A58-7ACDFE9A5102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D453012D-64A4-4C87-8A58-7ACDFE9A5102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D453012D-64A4-4C87-8A58-7ACDFE9A5102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D453012D-64A4-4C87-8A58-7ACDFE9A5102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B245736-7A5D-400E-8F27-1DBC9CCC91F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B245736-7A5D-400E-8F27-1DBC9CCC91F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B245736-7A5D-400E-8F27-1DBC9CCC91F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B245736-7A5D-400E-8F27-1DBC9CCC91F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
