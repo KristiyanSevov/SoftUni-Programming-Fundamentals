@@ -24,7 +24,6 @@ namespace Hornet_Comm
                     messages.Add(new KeyValuePair<string, string>(code, match.Groups[2].Value));
                 }
                 else if (Regex.IsMatch(input, broadcast))
-
                 {
                     Match match = Regex.Match(input, broadcast);
                     string frequency = match.Groups[2].Value;
