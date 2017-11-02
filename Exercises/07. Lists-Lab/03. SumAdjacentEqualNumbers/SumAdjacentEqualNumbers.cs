@@ -21,6 +21,7 @@ namespace _03.SumAdjacentEqualNumbers
                     {
                         nums[i] += nums[i + 1];
                         nums.RemoveAt(i + 1);
+                        break;
                     }
                 }
             }
