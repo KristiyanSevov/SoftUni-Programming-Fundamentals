@@ -30,7 +30,7 @@ namespace Winning_Ticket
                     int leftLength = leftMatch.Value.Length;
                     char rightSymbol = rightMatch.Value[0];
                     int rightLength = rightMatch.Value.Length;
-                    if (leftLength == 10 && rightLength == 10)
+                    if (leftLength == 10 && rightLength == 10 && leftSymbol == rightSymbol)
                     {
                         Console.WriteLine("ticket \"{0}\" - 10{1} Jackpot!", ticket, leftSymbol);
                     }
