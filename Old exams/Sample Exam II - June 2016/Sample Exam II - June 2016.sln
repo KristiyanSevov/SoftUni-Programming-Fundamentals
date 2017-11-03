@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Airline", "SoftUni Airline\SoftUni Airline.csproj", "{8C48A27A-9C88-43F9-A8C1-5A3F656DBEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Water Supplies", "SoftUni Water Supplies\SoftUni Water Supplies.csproj", "{35A9F434-D1DF-4ABA-A083-A6198AC87836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Operator", "Matrix Operator\Matrix Operator.csproj", "{D4F3B43D-D213-4EB4-BD3C-C02498704002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Coffee Supplies", "SoftUni Coffee Supplies\SoftUni Coffee Supplies.csproj", "{CABBE2A6-D264-4CCE-B0A1-B3F58DEE88E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C48A27A-9C88-43F9-A8C1-5A3F656DBEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C48A27A-9C88-43F9-A8C1-5A3F656DBEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C48A27A-9C88-43F9-A8C1-5A3F656DBEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C48A27A-9C88-43F9-A8C1-5A3F656DBEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A9F434-D1DF-4ABA-A083-A6198AC87836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A9F434-D1DF-4ABA-A083-A6198AC87836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A9F434-D1DF-4ABA-A083-A6198AC87836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A9F434-D1DF-4ABA-A083-A6198AC87836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F3B43D-D213-4EB4-BD3C-C02498704002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F3B43D-D213-4EB4-BD3C-C02498704002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F3B43D-D213-4EB4-BD3C-C02498704002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F3B43D-D213-4EB4-BD3C-C02498704002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABBE2A6-D264-4CCE-B0A1-B3F58DEE88E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABBE2A6-D264-4CCE-B0A1-B3F58DEE88E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABBE2A6-D264-4CCE-B0A1-B3F58DEE88E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABBE2A6-D264-4CCE-B0A1-B3F58DEE88E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
