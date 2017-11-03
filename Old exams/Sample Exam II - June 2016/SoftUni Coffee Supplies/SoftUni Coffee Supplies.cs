@@ -10,7 +10,7 @@ namespace SoftUni_Coffee_Supplies
         static void Main(string[] args)
         {
             var people = new Dictionary<string, string>();
-            var coffee = new Dictionary<string, long>();
+            var coffee = new Dictionary<string, int>();
             string[] delimiters = Console.ReadLine().Split(' ');
             string input = Console.ReadLine();
             while (input != "end of info")
