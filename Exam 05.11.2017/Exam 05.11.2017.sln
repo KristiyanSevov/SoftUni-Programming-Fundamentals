@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Downsite", "Anonymous Downsite\Anonymous Downsite.csproj", "{E5E533D2-445D-457F-8052-16387F27E160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Threat", "Anonymous Threat\Anonymous Threat.csproj", "{1804D8C8-3DBB-401D-80D4-8AE26B642DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Vox", "Anonymous Vox\Anonymous Vox.csproj", "{0F51C069-33DC-4C50-B56F-757A109824BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Cache", "Anonymous Cache\Anonymous Cache.csproj", "{3E2D397A-334B-402B-9337-08670879AFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E533D2-445D-457F-8052-16387F27E160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E533D2-445D-457F-8052-16387F27E160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E533D2-445D-457F-8052-16387F27E160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E533D2-445D-457F-8052-16387F27E160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1804D8C8-3DBB-401D-80D4-8AE26B642DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1804D8C8-3DBB-401D-80D4-8AE26B642DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1804D8C8-3DBB-401D-80D4-8AE26B642DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1804D8C8-3DBB-401D-80D4-8AE26B642DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F51C069-33DC-4C50-B56F-757A109824BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F51C069-33DC-4C50-B56F-757A109824BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F51C069-33DC-4C50-B56F-757A109824BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F51C069-33DC-4C50-B56F-757A109824BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2D397A-334B-402B-9337-08670879AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2D397A-334B-402B-9337-08670879AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2D397A-334B-402B-9337-08670879AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2D397A-334B-402B-9337-08670879AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
